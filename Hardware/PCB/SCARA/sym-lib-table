@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Espressif/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "ADP7118AUJZ-3_3-R7")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Cellgrading/Lib/ADP7118AUJZ-3.3-R7/ADP7118AUJZ-3_3-R7.kicad_sym")(options "")(descr ""))
+  (lib (name "330uf 35V")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Cellgrading/Lib/35TZV330M10X10_5/KiCADv6/2024-07-29_06-21-39.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC2209_SILENTSTEPSTICK")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Cellgrading/Lib/TMC2209_SILENTSTEPSTICK/TMC2209_SILENTSTEPSTICK.kicad_sym")(options "")(descr ""))
+  (lib (name "150505M173300")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Cellgrading/Lib/5050 LED/150505M173300.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6899AAZT+T")(type "KiCad")(uri "/Users/semiconmediapvtltd/Desktop/Cellgrading/Lib/MAX6899AAZT_T/MAX6899AAZT+T.kicad_sym")(options "")(descr ""))
+)
