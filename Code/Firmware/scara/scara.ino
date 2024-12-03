@@ -1,3 +1,40 @@
+/*
+ * Project Name: Scara Robot
+ * Project Brief: ESP32-C6 based SCARA RBOT.
+ * Author: Jobit Joseph @ https://github.com/jobitjoseph
+ * IDE: Arduino IDE 2.x.x
+ * Arduino Core: ESP32 Arduino Core V 3.0.5
+ *
+ * Copyright © Jobit Joseph
+ * Copyright © Semicon Media Pvt Ltd
+ * Copyright © Circuitdigest.com
+ * 
+ * This code is licensed under the following conditions:
+ *
+ * 1. Non-Commercial Use:
+ * This program is free software: you can redistribute it and/or modify it
+ * for personal or educational purposes under the condition that credit is given 
+ * to the original author. Attribution is required, and the original author 
+ * must be credited in any derivative works or distributions.
+ *
+ * 2. Commercial Use:
+ * For any commercial use of this software, you must obtain a separate license
+ * from the original author. Contact the author for permissions or licensing
+ * options before using this software for commercial purposes.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+ * FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
+ * THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+ * FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+ * DEALINGS IN THE SOFTWARE.
+ *
+ * Author: Jobit Joseph
+ * Date: 18 October 2024
+ *
+ * For commercial use or licensing requests, please contact [jobitjoseph1@gmail.com].
+ */
 #include <AccelStepper.h>
 #include <ESP32Servo.h>
 #include <HardwareSerial.h>
