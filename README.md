@@ -1,4 +1,4 @@
-# DIY Scara Robot Based on RISC-V Architecture
+# DIY Scara Robot Based on RISC-V Architecture(https://circuitdigest.com/videos/scara-robotic-arm-using-esp32)
 <img src="https://github.com/jobitjoseph/SCARA-Robot-Based-on-ESP32-C6/blob/main/Images/Scara.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 A DIY SCARA (Selective Compliance Assembly Robot Arm) robot is a versatile, compact robotic arm designed for tasks requiring precision, such as assembly, sorting, and pick-and-place operations. As robotics becomes integral to modern industry and education, SCARA robots offer a practical and accessible way to explore automation, robotics programming, and motion control. This project combines affordability with high functionality, making it a valuable tool for learning and small-scale automation.
